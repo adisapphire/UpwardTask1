@@ -4,8 +4,8 @@
 Django + Reactjs app
 
 Installation:
-  create virtual env
-  install requirements.txt in virtaulenv
+  create virtual env\n
+  install requirements.txt in virtaulenv\n
   enable google api, and generate credentials.json and token.pickle and place it in backend folder
   runserver for django
   
