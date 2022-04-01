@@ -1,0 +1,11 @@
+html,
+body {
+  background-color: #282c34;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.App {
+  width: 100vw;
+  color: white;
+}
